@@ -26,5 +26,5 @@ I used python function to calculate the text similarity rather than using the tr
 
 
 Sources:
-https://www.statisticshowto.datasciencecentral.com/jaccard-index/
+https://www.statisticshowto.datasciencecentral.com/jaccard-index/ \n
 https://www.sciencedirect.com/topics/computer-science/cosine-similarity
