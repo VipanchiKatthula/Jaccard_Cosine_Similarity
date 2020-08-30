@@ -8,7 +8,7 @@
 * [Results](#results)
 
 ## OBJECTIVE
-Finding the closenesss between documents using basics of NLP. Implementing basics of text similarity on multiple files and presenting the analysis.
+Finding the closeness between documents using basics of NLP. Implementing basics of text similarity on multiple files and presenting the analysis.
 
 ## TECHNOLOGIES
 Project is created with:
